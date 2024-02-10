@@ -1,0 +1,18 @@
+C:\Users\yaren\OneDrive\Masaüstü\Görsel Prog. Proje\E-Kütüphane Sistemi\E-Kütüphane Sistemi\bin\Debug\E-Kütüphane Sistemi.exe.config
+C:\Users\yaren\OneDrive\Masaüstü\Görsel Prog. Proje\E-Kütüphane Sistemi\E-Kütüphane Sistemi\bin\Debug\E-Kütüphane Sistemi.exe
+C:\Users\yaren\OneDrive\Masaüstü\Görsel Prog. Proje\E-Kütüphane Sistemi\E-Kütüphane Sistemi\bin\Debug\E-Kütüphane Sistemi.pdb
+C:\Users\yaren\OneDrive\Masaüstü\Görsel Prog. Proje\E-Kütüphane Sistemi\E-Kütüphane Sistemi\obj\Debug\E-Kütüphane Sistemi.csproj.AssemblyReference.cache
+C:\Users\yaren\OneDrive\Masaüstü\Görsel Prog. Proje\E-Kütüphane Sistemi\E-Kütüphane Sistemi\obj\Debug\E_Kütüphane_Sistemi.Form1.resources
+C:\Users\yaren\OneDrive\Masaüstü\Görsel Prog. Proje\E-Kütüphane Sistemi\E-Kütüphane Sistemi\obj\Debug\E_Kütüphane_Sistemi.Properties.Resources.resources
+C:\Users\yaren\OneDrive\Masaüstü\Görsel Prog. Proje\E-Kütüphane Sistemi\E-Kütüphane Sistemi\obj\Debug\E-Kütüphane Sistemi.csproj.GenerateResource.cache
+C:\Users\yaren\OneDrive\Masaüstü\Görsel Prog. Proje\E-Kütüphane Sistemi\E-Kütüphane Sistemi\obj\Debug\E-Kütüphane Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\yaren\OneDrive\Masaüstü\Görsel Prog. Proje\E-Kütüphane Sistemi\E-Kütüphane Sistemi\obj\Debug\E-Kütüphane Sistemi.exe
+C:\Users\yaren\OneDrive\Masaüstü\Görsel Prog. Proje\E-Kütüphane Sistemi\E-Kütüphane Sistemi\obj\Debug\E-Kütüphane Sistemi.pdb
+C:\Users\yaren\OneDrive\Masaüstü\Görsel Prog. Proje\E-Kütüphane Sistemi\E-Kütüphane Sistemi\obj\Debug\E_Kütüphane_Sistemi.Form2.resources
+C:\Users\yaren\OneDrive\Masaüstü\Görsel Prog. Proje\E-Kütüphane Sistemi\E-Kütüphane Sistemi\obj\Debug\E_Kütüphane_Sistemi.Form3.resources
+C:\Users\yaren\OneDrive\Masaüstü\Görsel Prog. Proje\E-Kütüphane Sistemi\E-Kütüphane Sistemi\obj\Debug\E_Kütüphane_Sistemi.Form4.resources
+C:\Users\yaren\OneDrive\Masaüstü\Görsel Prog. Proje\E-Kütüphane Sistemi\E-Kütüphane Sistemi\obj\Debug\E_Kütüphane_Sistemi.Form5.resources
+C:\Users\yaren\OneDrive\Masaüstü\Görsel Prog. Proje\E-Kütüphane Sistemi\E-Kütüphane Sistemi\obj\Debug\E_Kütüphane_Sistemi.Form6.resources
+C:\Users\yaren\OneDrive\Masaüstü\Görsel Prog. Proje\E-Kütüphane Sistemi\E-Kütüphane Sistemi\obj\Debug\E_Kütüphane_Sistemi.Form7.resources
+C:\Users\yaren\OneDrive\Masaüstü\Görsel Prog. Proje\E-Kütüphane Sistemi\E-Kütüphane Sistemi\obj\Debug\E_Kütüphane_Sistemi.Form8.resources
+C:\Users\yaren\OneDrive\Masaüstü\Görsel Prog. Proje\E-Kütüphane Sistemi\E-Kütüphane Sistemi\obj\Debug\E_Kütüphane_Sistemi.Form9.resources
